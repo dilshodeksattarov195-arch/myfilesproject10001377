@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicepecrypt",
+        "uuid": 3354372,
+        "checksum": "xlp3cv"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
